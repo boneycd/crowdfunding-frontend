@@ -35,6 +35,7 @@ https://github.com/boneycd/crowdfunding-frontend
 
 ![Alt A screenshot of backend pledge list](screenshots/backendpledgelist.png)
 
+============================================================
 
 Future implementation plans:
 Work on the frontend css and make the website moree presentable  
