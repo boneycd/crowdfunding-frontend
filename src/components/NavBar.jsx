@@ -24,7 +24,8 @@ function NavBar() {
                 )}
                         
             <Link to="/signup">Sign up</Link>
-            <Link to="/create-project">Create Project</Link>            
+            <Link to="/create-project">Create Project</Link>
+            <Link to="/create-pledge">Make a Pledge</Link>            
             </nav>
             <Outlet />
         </div>
